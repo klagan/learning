@@ -1,5 +1,3 @@
 # Getting started
 
-My notes on things I will forget.  
-
-> see the wiki
+[See the wiki](https://github.com/klagan/learning/wiki)
